@@ -2,7 +2,7 @@
 
 知识库 + 个人博客站点，MkDocs + MaterialX，托管在 Cloudflare Pages。
 
-- 在线地址：https://zqjs-37p.pages.dev
+- 在线地址：https://zqjs.ziqing.ccwu.cc
 - 好记域名：https://zqjs.ziqing.ccwu.cc（CNAME 指向 Pages 项目）
 - 代码仓库：https://github.com/zqjs2/mingli-site
 - 本地目录：G:\mingli-site
