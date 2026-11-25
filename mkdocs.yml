@@ -79,7 +79,9 @@ nav:
       - 八卦风水: fengshui/bagua/index.md
       - 一宅断: fengshui/yizhaiduan/index.md
       - 三元风水: fengshui/sanyuan/index.md
-      - 玄空大卦: fengshui/xuankong/index.md
+      - 玄空大卦:
+          - 总览: fengshui/xuankong/index.md
+          - 入门: fengshui/xuankong/rumen.md
   - 四柱八字:
       - 总览: bazi/index.md
       - 干支基础: bazi/stems-branches.md
