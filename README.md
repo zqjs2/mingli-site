@@ -1,4 +1,4 @@
-# 明理斋 · 易学与命理笔记
+# 子清见山 · 易学与命理笔记
 
 知识库 + 个人博客站点，MkDocs + MaterialX，托管在 Cloudflare Pages。
 
