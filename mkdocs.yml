@@ -102,7 +102,9 @@ nav:
       - 总览: qimen/index.md
   - 面相学:
       - 总览: mianxiang/index.md
-  - 见山录: cases/index.md
+  - 见山录:
+      - 总览: cases/index.md
+      - 2007 坤造: cases/2007kunzao.md
   - 子清手记: notes/index.md
   - 博客: blog/index.md
   - 标签: tags.md
