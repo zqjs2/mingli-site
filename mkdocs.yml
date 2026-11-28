@@ -1,11 +1,15 @@
-site_name: 明理斋 · 易学与命理笔记
-site_description: 易经、风水、四柱八字、奇门遁甲、面相学的学习笔记与命例整理
+site_name: 子清见山
+site_description: 子清见山｜天星风水·玄空大卦·四柱八字·奇门遁甲研习笔记
 site_author: 明理斋
 site_url: https://zqjs.ziqing.ccwu.cc
+
+copyright: 子清见山 · 观山察形，理气知命
 
 theme:
   name: materialx
   language: zh
+  logo: assets/logo.png
+  favicon: assets/favicon.png
   features:
     - navigation.tabs
     - navigation.sections
@@ -81,6 +85,9 @@ nav:
           - 赵东灵课程笔记: fengshui/tianxing/course-notes.md
           - 形家书目: fengshui/tianxing/xingjia-books.md
       - 八卦风水: fengshui/bagua/index.md
+      - 形家形势:
+          - 龙穴形势总图解: fengshui/xingshi/index.md
+          - 明堂与水口: fengshui/xingshi/mingtang.md
       - 一宅断: fengshui/yizhaiduan/index.md
       - 三元风水: fengshui/sanyuan/index.md
       - 玄空大卦:
@@ -89,12 +96,14 @@ nav:
   - 四柱八字:
       - 总览: bazi/index.md
       - 干支基础: bazi/stems-branches.md
+      - 藏干: bazi/canggan.md
+      - 十二长生: bazi/12zhangsheng.md
   - 奇门遁甲:
       - 总览: qimen/index.md
   - 面相学:
       - 总览: mianxiang/index.md
-  - 命例库: cases/index.md
-  - 学习笔记: notes/index.md
+  - 见山录: cases/index.md
+  - 子清手记: notes/index.md
   - 博客: blog/index.md
   - 标签: tags.md
   - 关于本站: about/index.md
