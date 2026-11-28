@@ -82,12 +82,12 @@ nav:
       - 天星风水:
           - 总览: fengshui/tianxing/index.md
           - 学习路径: fengshui/tianxing/path.md
-          - 赵东灵课程笔记: fengshui/tianxing/course-notes.md
-          - 形家书目: fengshui/tianxing/xingjia-books.md
+          - 天星风水笔记: fengshui/tianxing/tianxing-notes.md
       - 八卦风水: fengshui/bagua/index.md
       - 形家形势:
           - 龙穴形势总图解: fengshui/xingshi/index.md
           - 明堂与水口: fengshui/xingshi/mingtang.md
+          - 台湾形家诸家: fengshui/xingshi/renwu.md
       - 一宅断: fengshui/yizhaiduan/index.md
       - 三元风水: fengshui/sanyuan/index.md
       - 玄空大卦:
